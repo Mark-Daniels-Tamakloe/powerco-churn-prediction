@@ -12,16 +12,16 @@ This project was completed as part of the **BCG X Data Science Virtual Experienc
 - Handled Boolean variables and assessed churn impact.
 - Identified and treated skewed features using logarithmic transformation.
 
-### ✅ Task 2: Predictive Modeling
+### ✅ Task 2: Correlation Analysis & Feature Selection
+- Created a correlation heatmap to identify highly correlated features.
+- Removed redundant variables to reduce multicollinearity.
+- Ensured final feature set met model assumptions and improved interpretability.
+
+### ✅ Task 3: Predictive Modeling
 - Trained a **Random Forest Classifier** to predict churn using a 75-25 train-test split.
 - Evaluated performance using accuracy, precision, recall, and confusion matrix.
 - Generated churn probabilities for out-of-sample data.
 - Visualized feature importance to understand key drivers of churn.
-
-### ✅ Task 3: Correlation Analysis & Feature Selection
-- Created a correlation heatmap to identify highly correlated features.
-- Removed redundant variables to reduce multicollinearity.
-- Ensured final feature set met model assumptions and improved interpretability.
 
 ---
 
